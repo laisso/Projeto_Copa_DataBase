@@ -4,22 +4,6 @@
 
 ---
 
-## 🧭 Sumário
-
-- [Visão Geral](#visão-geral)  
-- [Funcionalidades](#funcionalidades)  
-- [Arquitetura / Modelagem](#arquitetura--modelagem)  
-- [Como Utilizar](#como-utilizar)  
-  - [Pré-requisitos](#pré-requisitos)  
-  - [Instalação / Execução](#instalação--execução)  
-- [Scripts e Estrutura](#scripts-e-estrutura)  
-- [Exemplos de Consulta](#exemplos-de-consulta)  
-- [Contribuição](#contribuição)  
-- [Licença](#licença)  
-- [Contato](#contato)  
-
----
-
 ## ⚽ Visão Geral
 
 O **Projeto_Copa_DataBase** é uma base de dados construída em **SQL (PostgreSQL ou compatível)**, com o objetivo de centralizar informações referentes à **Copa do Mundo** (seleções, jogos, resultados, estádios, etc.).  
