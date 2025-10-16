@@ -13,7 +13,7 @@ O repositório contém scripts para:
 - inserção de dados (povoamento)  
 - consultas SQL para extração de insights  
 
-Esse projeto é ideal tanto para estudo acadêmico quanto para servir de base em sistemas de gestão ou análise esportiva. (Inclusive foi um trabalho feito em grupo na faculdade)
+Esse projeto é ideal tanto para estudo acadêmico quanto para servir de base em sistemas de gestão ou análise esportiva. (Inclusive foi um projeto feito em grupo na faculdade)
 
 ---
 
