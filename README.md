@@ -51,10 +51,3 @@ As relações entre as entidades garantem **integridade referencial**, permitind
 - **PostgreSQL** (ou outro SGBD relacional)  
 - Terminal SQL ou ferramenta gráfica (pgAdmin, DBeaver, etc.)  
 
-### Instalação / Execução
-
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/laisso/Projeto_Copa_DataBase.git
-   cd Projeto_Copa_DataBase
