@@ -1,10 +1,10 @@
-# 🏆 Projeto_Copa_DataBase
+## 🏆 Projeto_Copa_DataBase
 
 > Um banco de dados relacional para manipulação, consulta e análise de dados relacionados à Copa do Mundo.
 
 ---
 
-## ⚽ Visão Geral
+### ⚽ Visão Geral
 
 O **Projeto_Copa_DataBase** é uma base de dados construída em **SQL (PostgreSQL ou compatível)**, com o objetivo de centralizar informações referentes à **Copa do Mundo** (seleções, jogos, resultados, estádios, etc.).  
 O repositório contém scripts para:
@@ -17,7 +17,7 @@ Esse projeto é ideal tanto para estudo acadêmico quanto para servir de base em
 
 ---
 
-## 🚀 Funcionalidades
+### 🚀 Funcionalidades
 
 - Modelo relacional normalizado  
 - Scripts automáticos de criação e povoamento  
@@ -26,7 +26,7 @@ Esse projeto é ideal tanto para estudo acadêmico quanto para servir de base em
 
 ---
 
-## 🏗️ Arquitetura / Modelagem
+### 🏗️ Arquitetura / Modelagem
 
 O modelo contempla entidades como:
 
@@ -44,7 +44,7 @@ As relações entre as entidades garantem **integridade referencial**, permitind
 
 ---
 
-## 💻 Como Utilizar
+### 💻 Como Utilizar
 
 ### Pré-requisitos
 
