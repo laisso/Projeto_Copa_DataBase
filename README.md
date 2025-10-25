@@ -46,7 +46,7 @@ As relações entre as entidades garantem **integridade referencial**, permitind
 
 ### 💻 Como Utilizar
 
-Pré-requisitos
+**Pré-requisitos**
 
 - **PostgreSQL** (ou outro SGBD relacional)  
 - Terminal SQL ou ferramenta gráfica (pgAdmin, DBeaver, etc.)  
